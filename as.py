@@ -1,0 +1,20 @@
+ whitebit-coin
+  near-protocol
+  gate
+  pol-(ex-matic)
+  sonic-(prev.-ftm):
+  solv-protocol-solvbtc.bbn
+  wrapped-bnb
+  arbitrum-bridged-wbtc-(arbitrum-one)
+binance-bridged-usdc-(bnb-smart-chain)
+curve-dao 
+ l2-standard-bridged-weth-(base)
+ trueusd
+ virtuals-protocol
+ rbitrum-bridged-weth-(arbitrum-one)
+  avalanche-bridged-btc-(avalanche)
+  ether.fi-staked-eth
+  bridged-usdc-(polygon-pos-bridge)
+  verus
+  polygon-pos-bridged-weth-(polygon-pos)
+  mantle-bridged-usdt-(mantle)
