@@ -37,7 +37,7 @@ streamlit run app.py
 
 ## 🖥 ลิงก์ดูผลงาน
 คุณสามารถดูผลงานของแอปที่ถูก Deploy ได้ที่ลิงก์นี้:  
-[**Crypto MarketCap Treemap on Streamlit Cloud**](https://coinmarketcap-jq8d5jjfz7gwcffarrwras.streamlit.app](https://coinmarketcap-4femnmqcuz3nje9g3oryb7.streamlit.app/))
+[**Crypto MarketCap Treemap on Streamlit Cloud**](https://coinmarketcap-4femnmqcuz3nje9g3oryb7.streamlit.app/))
 
 ## 🎨 ความสามารถเพิ่มเติม
 แอปนี้สามารถพัฒนาเพิ่มขึ้นได้ในอนาคต เช่น:
